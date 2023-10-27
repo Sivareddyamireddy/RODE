@@ -1,0 +1,205 @@
+*{
+    margin-top: 10px;
+}
+.navbar{
+    color: black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100px;
+    border: 0.1px solid black;
+}
+.navbar_head{
+    width: 26%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+.navbar_body{
+    width: 48%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 18px;
+
+}
+.navbar_tail{
+    width: 26%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+i{
+    font-size:30px;
+}
+a{
+    color: black;
+    text-decoration: none;
+    margin-right: 30px;
+}
+.first{
+    background-image: url(https://edge.rode.com/images/page/1/modules/9242/WIPRO-Header-03.jpg);
+    background-size: cover;
+    min-height: 90vh;
+    background-position: center;
+    position: relative;
+}
+.first_text {
+   text-align: center;
+    width: 40%;
+    position: absolute;
+    padding-top: 11%;
+    padding-left: 10%;
+}
+.first_text p{
+    font-size: 20px;
+}
+.first_text h3{
+    font-size: 30px;
+}
+.first_text a{
+    text-decoration: none;
+    font-size: 1.3rem;
+    color: #ad9970;
+}
+.first_text span{
+    background-color: black;
+    color: white;
+    font-size: 1.3rem;
+    padding: 1%;
+    border-radius: 25px;
+    margin-left: 10px;
+}
+.second{
+    background-image: url(https://edge.rode.com/images/page/1/modules/8061/RCP-DUO-BANNER1920x700.jpg);
+        background-size: cover;
+        min-height: 90vh;
+        background-position: center;
+        position: relative;
+}
+.second_text {
+    text-align: center;
+     width: 40%;
+     position: absolute;
+     padding-top: 11%;
+     padding-left: 50%;
+ }
+ .second_text p{
+     font-size: 20px;
+ }
+ .second_text h3{
+     font-size: 30px;
+ }
+ .second_text a{
+     text-decoration: none;
+     font-size: 1.2rem;
+     color: #ad9970;
+ }
+ .second_text span{
+     background-color: black;
+     color: white;
+     font-size: 1.3rem;
+     padding: 1%;
+     border-radius: 25px;
+     margin-left: 10px;
+ }
+ .third{
+    background-image: url(https://edge.rode.com/images/page/1/modules/8063/StreamerX-Header-right.jpg);
+        background-size: cover;
+        min-height: 90vh;
+        background-position: center;
+        position: relative;
+}
+.third_text {
+    text-align: center;
+     width: 40%;
+     position: absolute;
+     padding-top: 11%;
+     padding-left: 10%;
+ }
+ .third_text p{
+     font-size: 20px;
+ }
+ .third_text h3{
+     font-size: 30px;
+ }
+ .third_text a{
+     text-decoration: none;
+     font-size: 1.2rem;
+     color: #ad9970;
+ }
+ .third_text span{
+     background-color: black;
+     color: white;
+     font-size: 1.3rem;
+     padding: 1%;
+     border-radius: 25px;
+     margin-left: 10px;
+ }
+ .forth{
+    background-image: url(https://edge.rode.com/images/page/1/modules/8062/rode-pod-mic-usb-home-header-11614x4234-rgb-1921x700-8c89d38.jpg);
+        background-size: cover;
+        min-height: 90vh;
+        background-position: center;
+        position: relative;
+}
+.forth_text {
+    text-align: center;
+     width: 40%;
+     position: absolute;
+     padding-top: 11%;
+     padding-left: 50%;
+ }
+ .forth_text p{
+     font-size: 20px;
+ }
+ .forth_text h3{
+     font-size: 30px;
+ }
+ .forth_text a{
+     text-decoration: none;
+     font-size: 1.2rem;
+     color: #ad9970;
+ }
+ .forth_text span{
+     background-color: black;
+     color: white;
+     font-size: 1.3rem;
+     padding: 1%;
+     border-radius: 25px;
+     margin-left: 10px;
+ }
+ .fifth{
+    background-image: url("https://edge.rode.com/images/page/1/modules/7728/rode-wireless-me-insitu-pastel-livingroom-mobile-sefie-with-iPhone-sc21-6040x2200-rgb-1921x700-8c89d38 (1).jpg");
+        background-size: cover;
+        min-height: 90vh;
+        background-position: center;
+        position: relative;
+}
+.fifth_text {
+    text-align: center;
+     width: 40%;
+     position: absolute;
+     padding-top: 11%;
+     padding-left: 10%;
+ }
+ .fifth_text p{
+     font-size: 20px;
+ }
+ .fifth_text h3{
+     font-size: 30px;
+ }
+ .fifth_text a{
+     text-decoration: none;
+     font-size: 1.2rem;
+     color: #ad9970;
+ }
+ .fifth_text span{
+     background-color: black;
+     color: white;
+     font-size: 1.3rem;
+     padding: 1%;
+     border-radius: 25px;
+     margin-left: 10px;
+ }
